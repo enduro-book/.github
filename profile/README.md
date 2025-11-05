@@ -2,8 +2,8 @@
 
 ### Environment Links
 
-> [PROD](https://enduro-book.com/app-enduro)
+> [PROD](https://endurobook.com)
 
-> [STAGING](https://enduro-book.duckdns.org/app-enduro)
+> [UAT](https://uat.endurobook.com)
 
-> [LOCAL](http://localhost:3000/app-enduro)
+> [LOCAL](https://dev.endurobook.com)
